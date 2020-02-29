@@ -20,8 +20,14 @@
     "hubot-slack": "^4.7.1",
     "hubot-slack-timeline": "^0.2.3"
   },
+  "scripts": {
+    "start": "node server"
+  },
   "engines": {
     "node": "12.13.x",
     "npm": "6.12.0"
+  },
+  "scripts": {
+    "start": "node server"
   }
 }
